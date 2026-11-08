@@ -1,0 +1,2 @@
+Upload your Daniflames Graphics logo into this folder and name it logo.png.
+The website looks for: assets/logo.png
